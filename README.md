@@ -12,7 +12,7 @@
 
 # Getting Started
 
-![boards dashboard](GameScreen.png)
+![boards dashboard](GameScreen.PNG)
 
 ### You can play this on either keyboard or controller (XBOX or PS)
 - Click (or press if using contoller) 
