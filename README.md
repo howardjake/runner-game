@@ -15,7 +15,7 @@
 ![boards dashboard](GameScreen.PNG)
 
 ### You can play this on either keyboard or controller (XBOX or PS)
-- Click (or press if using contoller) 
+- Click start (or press if using a contoller) 
 - The goal is to go as far as possible, the longer you go the faster go.
 - Top of the screen indicates your score, under that is your health
 - Use (W, S, A, D,) or the arrow keys (or the left joystick) to control your movement.
