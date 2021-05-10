@@ -2,7 +2,7 @@
 ### The fast-paced driving survival mini-game
 #
 
-![start menu](.\imgs\StartMenu.png)
+![start menu](StartMenu.PNG)
 
 
 # Technolgies Used
@@ -12,7 +12,7 @@
 
 # Getting Started
 
-![boards dashboard](.\imgs\GameScreen.png)
+![boards dashboard](GameScreen.png)
 
 ### You can play this on either keyboard or controller (XBOX or PS)
 - Click (or press if using contoller) 
