@@ -1,7 +1,7 @@
 ## RUNNER
 ### The fast-paced driving survival mini-game
 #
-![start menu](imgs\StartMenu.PNG)
+![start menu](imgs\StartMenu.png)
 
 # Technolgies Used
 - Unity Engine
@@ -10,7 +10,7 @@
 
 # Getting Started
 
-![boards dashboard](imgs\GameScreen.PNG)
+![boards dashboard](imgs\GameScreen.png)
 ### You can play this on either keyboard or controller (XBOX or PS)
 - Click (or press if using contoller) 
 - The goal is to go as far as possible, the longer you go the faster go.
